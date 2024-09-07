@@ -625,7 +625,7 @@
 
 
 
-
+setDefaultTab("RIQUE")
                                                                                                                                                                                                                                                                                                             treino = macro(200, "Treino", function()
                                                                                                                                                                                                                                      if (manapercent() >= 80) then
                                                                                                                                                                                                                                                                                                                     say("chakra down")
