@@ -1048,7 +1048,7 @@ end)
 
 
 
-
+setDefaultTab("main")
                                                                                                                                                                                                                                                                         local a, b, c, d, e = 8, 500, {413}, { {x=-1, y=-1, dir=NorthWest}, {x=1, y=-1, dir=NorthEast}, {x=-1, y=1, dir=SouthWest}, {x=1, y=1, dir=SouthEast} }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 local f = macro(100, "MaTRiX", function() end)
 local g = function(h)
